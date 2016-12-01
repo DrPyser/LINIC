@@ -17,3 +17,6 @@ Dependencies
 * [libedit/editline](http://thrysoee.dk/editline/)
 * C compiler, C99 standard(e.g. gcc)
 
+References
+------------
+* Following [Build Your Own Lisp](http://www.buildyourownlisp.com/) guide.
